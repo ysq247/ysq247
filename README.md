@@ -75,10 +75,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysq247&theme=tokyonight" alt="GitHub profile details" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ysq247&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=ysq247&theme=tokyonight&no-frame=true&column=4&margin-w=8" height="180" alt="GitHub trophies" />
+[![Repos](https://img.shields.io/badge/Public%20Repos-3-58A6FF?style=flat-square&logo=github)](https://github.com/ysq247?tab=repositories)
+[![Contributions](https://img.shields.io/badge/2026%20Contributions-5-22C55E?style=flat-square&logo=github)](https://github.com/ysq247)
+[![Followers](https://img.shields.io/github/followers/ysq247?style=flat-square&color=blue&label=Followers&logo=github)](https://github.com/ysq247?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ysq247&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ysq247)
 
 </div>
 
