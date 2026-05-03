@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20JXKJ&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20Cross-border%20Commerce%20%C2%B7%20Automation%20Builder%20%C2%B7%20Indie%20Hacker&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hi%20I'm%20giien&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Giien%20Global%20%C2%B7%20AI%20Automation%20%C2%B7%20Cross-border%20Products&descSize=18&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+AI+workflows+for+global+sellers;Automating+e-commerce+operations+with+AI+Agents;Exploring+Amazon%2C+Shopify%2C+SHOPLINE+and+DTC;Turning+repetitive+work+into+scalable+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+practical+AI+systems+for+global+commerce;Turning+repetitive+work+into+repeatable+leverage;Cross-border+products%2C+automation%2C+and+indie+tools;More+control+over+time+is+the+direction)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ysq247&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ysq247)
-[![Followers](https://img.shields.io/github/followers/ysq247?style=flat-square&color=blue&label=Followers&logo=github)](https://github.com/ysq247?tab=followers)
-[![Stars](https://img.shields.io/github/stars/ysq247?style=flat-square&color=yellow&label=Total%20Stars&logo=github)](https://github.com/ysq247?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=giien&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/giien)
+[![Followers](https://img.shields.io/github/followers/giien?style=flat-square&color=blue&label=Followers&logo=github)](https://github.com/giien?tab=followers)
+[![Stars](https://img.shields.io/github/stars/giien?style=flat-square&color=yellow&label=Total%20Stars&logo=github)](https://github.com/giien?tab=repositories)
 
 </div>
 
@@ -14,18 +14,45 @@
 
 ## About Me
 
-我是 **JXKJ**，长期关注 **跨境电商、AI 自动化、独立产品与增长工具**。
+I am **giien**, building under **Giien Global**.
 
-我正在把 AI Agent、数据采集、内容生成、店铺运营和自动化工作流结合起来，探索更高效的跨境业务增长方式。从选品分析、Listing 优化、广告数据处理，到多平台内容分发和运营流程自动化，我希望用 AI 把重复劳动变成可复用的系统。
+I am focused on **cross-border commerce, AI automation, indie products, and systems that create leverage**.
 
-- **Direction**: Cross-border e-commerce / AI tools / automation / indie products
-- **Building**: AI Agent workflows for product research, content generation, data analysis, and store operations
-- **Tech Interests**: Python, Node.js, API automation, browser automation, data scraping, workflow orchestration
-- **Business Scenarios**: Amazon, Shopify, SHOPLINE, DTC sites, social content growth
-- **Goal**: Build an AI automation toolkit for cross-border sellers
-- **Open To Talk**: Cross-border growth, AI implementation, automation systems, and indie products
+What I care about most is not “interesting demos,” but tools that actually reduce friction in real work: tools that make output repeatable, workflows scalable, and decision-making clearer.
 
-> Building AI-powered workflows for cross-border commerce.
+I keep returning to one idea:
+
+> More control over your own time is one of the most worthwhile directions to build toward.
+
+That is why I care about **OPC**, AI agents, workflow automation, data systems, and productized tools. For me, AI is not a slogan. It is a practical way to turn scattered effort into reusable systems.
+
+- **Direction**: Cross-border products / AI tools / automation / indie building
+- **Building**: AI workflows for research, content, operations, data, and store growth
+- **Tech Interests**: Python, Node.js, browser automation, API workflows, scraping, orchestration
+- **Business Scenarios**: Amazon, Shopify, SHOPLINE, DTC, social content and seller tooling
+- **Open To Talk**: AI implementation, product systems, cross-border growth, and commercial collaboration
+
+---
+
+## 关于我
+
+我是 **giien**，以 **Giien Global** 的名义持续做产品和系统。
+
+我长期关注 **跨境业务、AI 自动化、独立产品，以及那些真正能形成杠杆的工具和工作流**。
+
+我更在意的不是“看起来很酷的演示”，而是那些在真实工作里能减少摩擦、放大产出、让流程可复制、让判断更清晰的东西。
+
+我一直很认同一个方向：
+
+> 自己能掌控的时间，才是值得长期努力的方向。
+
+也正因为这样，我会持续去做 **OPC、AI Agent、自动化工作流、数据系统和产品化工具**。对我来说，AI 不是口号，而是把零散努力变成可复用系统的一种现实手段。
+
+- **方向**：跨境产品 / AI 工具 / 自动化 / 独立开发
+- **正在做**：围绕选品、内容、运营、数据和店铺增长的 AI 工作流
+- **技术兴趣**：Python、Node.js、浏览器自动化、API 工作流、数据采集、流程编排
+- **业务场景**：Amazon、Shopify、SHOPLINE、独立站、内容增长、卖家工具
+- **欢迎交流**：AI 落地、产品系统、跨境增长、商业合作
 
 ---
 
@@ -35,9 +62,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### Cross-border E-commerce
+### Cross-border Commerce
 
-探索 AI 在 Amazon、Shopify、SHOPLINE、独立站等业务场景中的应用，覆盖选品、Listing、广告、内容和运营流程。
+I explore how AI can be applied to seller workflows across Amazon, Shopify, SHOPLINE, DTC sites, and content-led growth.
+
+From product research and listing optimization to operations and distribution, I care about making cross-border execution more systematic.
 
 `Amazon` `Shopify` `SHOPLINE` `DTC`
 
@@ -46,7 +75,9 @@
 
 ### AI Automation
 
-用 AI Agent、API、浏览器自动化和工作流编排，把重复性运营动作变成可复用、可扩展的自动化系统。
+I use AI agents, APIs, browser automation, and workflow orchestration to turn repetitive work into reusable systems.
+
+The goal is simple: less manual friction, more leverage.
 
 `AI Agent` `Workflow` `Automation` `Data`
 
@@ -71,24 +102,18 @@
 
 ---
 
-## GitHub Stats
+## Connect
 
-<div align="center">
-
-[![Repos](https://img.shields.io/badge/Public%20Repos-11-58A6FF?style=flat-square&logo=github)](https://github.com/ysq247?tab=repositories)
-[![Contributions](https://img.shields.io/badge/2026%20Contributions-5-22C55E?style=flat-square&logo=github)](https://github.com/ysq247)
-[![Followers](https://img.shields.io/github/followers/ysq247?style=flat-square&color=blue&label=Followers&logo=github)](https://github.com/ysq247?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=ysq247&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ysq247)
-
-</div>
+- GitHub: [github.com/giien](https://github.com/giien)
+- Open to project discussion, collaboration, and commercial licensing inquiries
 
 ---
 
 <div align="center">
 
-### AI for Cross-border Commerce
+### Build useful things. Own more of your time.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysq247)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giien)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
 
