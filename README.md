@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/Public%20Repos-3-58A6FF?style=flat-square&logo=github)](https://github.com/ysq247?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20Repos-11-58A6FF?style=flat-square&logo=github)](https://github.com/ysq247?tab=repositories)
 [![Contributions](https://img.shields.io/badge/2026%20Contributions-5-22C55E?style=flat-square&logo=github)](https://github.com/ysq247)
 [![Followers](https://img.shields.io/github/followers/ysq247?style=flat-square&color=blue&label=Followers&logo=github)](https://github.com/ysq247?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ysq247&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ysq247)
