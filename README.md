@@ -75,8 +75,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ysq247&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysq247&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" height="180" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysq247&theme=tokyonight" alt="GitHub profile details" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ysq247&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=ysq247&theme=tokyonight&no-frame=true&column=4&margin-w=8" height="180" alt="GitHub trophies" />
 
 </div>
 
